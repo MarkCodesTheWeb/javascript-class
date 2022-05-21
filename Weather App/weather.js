@@ -1,6 +1,6 @@
 class Weather {
   constructor(zip) {
-    this.apiKey = '9e8510e81f3373dd54fa72c5102f4dbc';
+    this.apiKey = '';
     this.zip = '08831';
   }
   //fetch weather from api
