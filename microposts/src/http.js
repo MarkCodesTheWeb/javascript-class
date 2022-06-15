@@ -42,7 +42,7 @@ async put(url, data) {
   
 }
 
-//Make an HTTP PUT Request
+//Make an HTTP DELETE Request
 async delete(url) {
   const response = await fetch(url, {
           method: 'DELETE',
